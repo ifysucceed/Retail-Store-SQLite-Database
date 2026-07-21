@@ -1,0 +1,251 @@
+,product_name,category,brand,product_id,price_GBP,stock_quantity,rating_score
+0,Beef Mince 500g,Meat,Tesco,5001,8.69,140.0,3.3
+1,Pringles Original,Snacks,Pringles,5002,2.47,170.0,4.6
+2,Milk 2L,Dairy,Tesco,5003,4.39,109.0,3.1
+3,Frozen Peas,Frozen,Tesco,5004,4.84,144.0,4.0
+4,Ice Cream 1L,Frozen,Tesco,5005,5.28,44.0,3.2
+5,Bananas 1kg,Produce,Tesco,5006,1.72,183.0,4.9
+6,Skyr Yogurt 450g,Dairy,Arla,5007,4.27,,4.1
+7,Walkers Crisps,Snacks,Walkers,5008,2.27,43.0,3.3
+8,Green Tea,Beverages,Twinings,5009,0.82,161.0,4.6
+9,Digestive Biscuits,Snacks,McVitie's,5010,1.59,114.0,3.8
+10,Apples 6 Pack,Produce,Tesco,5011,0.79,149.0,3.0
+11,Fish Fingers,Frozen,Tesco,5012,5.82,,5.0
+12,Lamb Chops,Meat,Tesco,5013,4.68,171.0,3.8
+13,Green Tea,Beverages,Twinings,5014,3.57,140.0,3.9
+14,Coca-Cola 2L,Beverages,Coca-Cola,5015,5.24,138.0,3.6
+15,Mineral Water 6 Pack,Beverages,Evian,5016,0.98,59.0,4.7
+16,Butter 250g,Dairy,Tesco,5017,3.62,29.0,4.7
+17,Greek Yogurt 500g,Dairy,Tesco,5018,1.44,42.0,4.3
+18,Cheddar Cheese 400g,Dairy,Tesco,5019,2.7,150.0,4.7
+19,Digestive Biscuits,Snacks,McVitie's,5020,2.17,107.0,4.2
+20,Wholemeal Bread,Bakery,Hovis,5021,1.61,39.0,4.7
+21,Apples 6 Pack,Produce,Tesco,5022,0.76,48.0,3.8
+22,Bananas 1kg,Produce,Tesco,5023,0.79,69.0,4.9
+23,Orange Juice 1L,Beverages,Tropicana,5024,5.64,133.0,3.1
+24,Coca-Cola 2L,Beverages,Coca-Cola,5025,3.49,76.0,4.1
+25,Frozen Pizza,Frozen,Tesco,5026,3.81,121.0,3.6
+26,Chicken Breast 1kg,Meat,Tesco,5027,7.74,153.0,4.5
+27,Carrots 1kg,Produce,Tesco,5028,0.99,63.0,4.5
+28,Walkers Crisps,Snacks,Walkers,5029,0.81,108.0,3.9
+29,Walkers Crisps,Snacks,Walkers,5030,2.1,,4.6
+30,Coca-Cola 2L,Beverages,Coca-Cola,5031,4.54,183.0,4.0
+31,Green Tea,Beverages,Twinings,5032,3.63,31.0,4.8
+32,Chicken Breast 1kg,Meat,Tesco,5033,9.85,188.0,4.1
+33,Pork Sausages,Meat,Tesco,5034,6.79,42.0,3.1
+34,Milk 2L,Dairy,Tesco,5035,1.13,142.0,4.9
+35,Frozen Peas,Frozen,Tesco,5036,3.37,137.0,4.1
+36,Coca-Cola 2L,Beverages,Coca-Cola,5037,1.36,115.0,4.6
+37,Bagels 5 Pack,Bakery,Tesco,5038,1.22,22.0,5.0
+38,Chicken Breast 1kg,Meat,Tesco,5039,3.27,105.0,4.4
+39,Coca-Cola 2L,Beverages,Coca-Cola,5040,3.27,53.0,3.6
+40,Green Tea,Beverages,Twinings,5041,3.67,167.0,3.0
+41,Greek Yogurt 500g,Dairy,Tesco,5042,4.0,50.0,4.0
+42,Mineral Water 6 Pack,Beverages,Evian,5043,4.38,43.0,3.3
+43,Bagels 5 Pack,Bakery,Tesco,5044,1.52,189.0,3.5
+44,Frozen Pizza,Frozen,Tesco,5045,1.52,103.0,4.8
+45,Milk 2L,Dairy,Tesco,5046,4.33,175.0,4.4
+46,Ice Cream 1L,Frozen,Tesco,5047,1.24,130.0,4.9
+47,Fish Fingers,Frozen,Tesco,5048,4.97,,4.6
+48,Frozen Pizza,Frozen,Tesco,5049,3.31,191.0,5.0
+49,Croissants 4 Pack,Bakery,Tesco,5050,2.46,189.0,3.7
+50,Apples 6 Pack,Produce,Tesco,5051,2.35,189.0,3.4
+51,Bagels 5 Pack,Bakery,Tesco,5052,2.33,174.0,3.2
+52,Ice Cream 1L,Frozen,Tesco,5053,1.82,135.0,4.9
+53,Bananas 1kg,Produce,Tesco,5054,0.76,38.0,3.9
+54,Croissants 4 Pack,Bakery,Tesco,5055,1.04,66.0,4.0
+55,Cheddar Cheese 400g,Dairy,Tesco,5056,1.16,117.0,4.8
+56,Coca-Cola 2L,Beverages,Coca-Cola,5057,4.7,87.0,4.2
+57,Cheddar Cheese 400g,Dairy,Tesco,5058,1.58,188.0,4.2
+58,Skyr Yogurt 450g,Dairy,Arla,5059,1.15,42.0,5.0
+59,Pringles Original,Snacks,Pringles,5060,2.18,137.0,3.6
+60,Orange Juice 1L,Beverages,Tropicana,5061,3.19,101.0,3.6
+61,Butter 250g,Dairy,Tesco,5062,4.46,107.0,4.3
+62,Bananas 1kg,Produce,Tesco,5063,1.91,188.0,3.4
+63,Pork Sausages,Meat,Tesco,5064,11.2,147.0,3.6
+64,Broccoli,Produce,Tesco,5065,0.71,48.0,3.2
+65,Organic Milk 2L,Dairy,Arla,5066,1.17,,4.6
+66,Orange Juice 1L,Beverages,Tropicana,5067,5.06,124.0,3.1
+67,Greek Yogurt 500g,Dairy,Tesco,5068,4.01,88.0,4.3
+68,Greek Yogurt 500g,Dairy,Tesco,5069,3.28,20.0,3.9
+69,Organic Milk 2L,Dairy,Arla,5070,2.27,162.0,3.7
+70,Orange Juice 1L,Beverages,Tropicana,5071,2.67,85.0,4.1
+71,Broccoli,Produce,Tesco,5072,1.76,44.0,3.6
+72,Frozen Pizza,Frozen,Tesco,5073,1.5,30.0,3.3
+73,Lamb Chops,Meat,Tesco,5074,3.21,50.0,4.8
+74,Green Tea,Beverages,Twinings,5075,1.63,32.0,4.7
+75,Bagels 5 Pack,Bakery,Tesco,5076,1.04,168.0,4.2
+76,Bagels 5 Pack,Bakery,Tesco,5077,2.92,170.0,3.5
+77,Croissants 4 Pack,Bakery,Tesco,5078,1.44,,4.9
+78,Broccoli,Produce,Tesco,5079,2.09,61.0,3.7
+79,Digestive Biscuits,Snacks,McVitie's,5080,2.43,71.0,3.7
+80,Beef Mince 500g,Meat,Tesco,5081,7.87,143.0,4.4
+81,Lamb Chops,Meat,Tesco,5082,3.19,87.0,3.6
+82,Ice Cream 1L,Frozen,Tesco,5083,1.07,86.0,3.8
+83,Lamb Chops,Meat,Tesco,5084,3.89,88.0,4.9
+84,Orange Juice 1L,Beverages,Tropicana,5085,0.88,154.0,4.0
+85,Skyr Yogurt 450g,Dairy,Arla,5086,2.05,,4.2
+86,Frozen Peas,Frozen,Tesco,5087,2.93,190.0,4.8
+87,Beef Mince 500g,Meat,Tesco,5088,10.7,52.0,3.5
+88,Wholemeal Bread,Bakery,Hovis,5089,2.69,198.0,3.7
+89,Mineral Water 6 Pack,Beverages,Evian,5090,1.38,126.0,4.1
+90,Wholemeal Bread,Bakery,Hovis,5091,3.34,,4.4
+91,Pringles Original,Snacks,Pringles,5092,0.92,54.0,3.1
+92,Frozen Pizza,Frozen,Tesco,5093,2.56,101.0,3.8
+93,Walkers Crisps,Snacks,Walkers,5094,1.66,21.0,4.2
+94,Green Tea,Beverages,Twinings,5095,2.63,181.0,4.4
+95,Fish Fingers,Frozen,Tesco,5096,2.09,153.0,4.5
+96,Chicken Breast 1kg,Meat,Tesco,5097,5.7,83.0,4.3
+97,Beef Mince 500g,Meat,Tesco,5098,3.22,127.0,4.4
+98,Coca-Cola 2L,Beverages,Coca-Cola,5099,0.6,66.0,4.4
+99,Milk 2L,Dairy,Tesco,5100,3.33,72.0,5.0
+100,Skyr Yogurt 450g,Dairy,Arla,5101,0.86,24.0,3.5
+101,Chocolate Muffins,Bakery,Tesco,5102,2.89,87.0,4.6
+102,Seeded Loaf,Bakery,Hovis,5103,2.76,24.0,4.3
+103,Beef Mince 500g,Meat,Tesco,5104,9.11,100.0,4.7
+104,Fish Fingers,Frozen,Tesco,5105,5.74,176.0,4.6
+105,Butter 250g,Dairy,Tesco,5106,2.28,73.0,4.6
+106,Frozen Peas,Frozen,Tesco,5107,2.39,155.0,5.0
+107,Frozen Peas,Frozen,Tesco,5108,1.04,33.0,4.3
+108,Coca-Cola 2L,Beverages,Coca-Cola,5109,0.89,122.0,3.1
+109,Mineral Water 6 Pack,Beverages,Evian,5110,2.41,112.0,4.1
+110,Frozen Pizza,Frozen,Tesco,5111,1.25,112.0,4.2
+111,Bananas 1kg,Produce,Tesco,5112,1.18,,3.0
+112,Ice Cream 1L,Frozen,Tesco,5113,2.59,162.0,4.9
+113,Skyr Yogurt 450g,Dairy,Arla,5114,2.59,84.0,3.1
+114,Chocolate Muffins,Bakery,Tesco,5115,2.09,186.0,4.5
+115,Mineral Water 6 Pack,Beverages,Evian,5116,2.05,88.0,4.4
+116,Mineral Water 6 Pack,Beverages,Evian,5117,0.94,181.0,4.2
+117,Butter 250g,Dairy,Tesco,5118,4.14,147.0,4.3
+118,Bananas 1kg,Produce,Tesco,5119,0.55,108.0,4.7
+119,Organic Milk 2L,Dairy,Arla,5120,3.81,38.0,3.2
+120,Snickers Bar,Snacks,Mars,5121,1.17,69.0,4.6
+121,Bagels 5 Pack,Bakery,Tesco,5122,1.3,,4.4
+122,Bananas 1kg,Produce,Tesco,5123,1.65,96.0,4.2
+123,Chicken Breast 1kg,Meat,Tesco,5124,3.96,97.0,4.2
+124,Seeded Loaf,Bakery,Hovis,5125,3.06,53.0,4.7
+125,Orange Juice 1L,Beverages,Tropicana,5126,1.14,118.0,4.1
+126,Croissants 4 Pack,Bakery,Tesco,5127,1.69,87.0,3.1
+127,Frozen Pizza,Frozen,Tesco,5128,2.62,158.0,3.2
+128,Butter 250g,Dairy,Tesco,5129,1.79,113.0,4.5
+129,Broccoli,Produce,Tesco,5130,1.16,168.0,4.1
+130,Digestive Biscuits,Snacks,McVitie's,5131,2.66,20.0,4.9
+131,Bagels 5 Pack,Bakery,Tesco,5132,2.32,98.0,3.8
+132,Cheddar Cheese 400g,Dairy,Tesco,5133,4.05,116.0,3.6
+133,Skyr Yogurt 450g,Dairy,Arla,5134,2.59,151.0,4.4
+134,Chicken Breast 1kg,Meat,Tesco,5135,11.85,,3.9
+135,Frozen Peas,Frozen,Tesco,5136,1.79,153.0,4.1
+136,Greek Yogurt 500g,Dairy,Tesco,5137,4.26,80.0,3.2
+137,Seeded Loaf,Bakery,Hovis,5138,2.76,,3.2
+138,Milk 2L,Dairy,Tesco,5139,3.46,49.0,4.7
+139,Lamb Chops,Meat,Tesco,5140,10.14,184.0,3.4
+140,Croissants 4 Pack,Bakery,Tesco,5141,1.99,93.0,4.4
+141,Butter 250g,Dairy,Tesco,5142,3.98,137.0,4.2
+142,Mineral Water 6 Pack,Beverages,Evian,5143,3.58,32.0,4.3
+143,Milk 2L,Dairy,Tesco,5144,1.79,170.0,4.5
+144,Chicken Breast 1kg,Meat,Tesco,5145,4.85,99.0,4.8
+145,Chicken Breast 1kg,Meat,Tesco,5146,7.8,181.0,4.8
+146,Skyr Yogurt 450g,Dairy,Arla,5147,2.47,67.0,3.1
+147,Chicken Breast 1kg,Meat,Tesco,5148,9.25,64.0,4.9
+148,Carrots 1kg,Produce,Tesco,5149,1.9,25.0,4.4
+149,Frozen Pizza,Frozen,Tesco,5150,1.11,136.0,3.5
+150,Orange Juice 1L,Beverages,Tropicana,5151,4.07,58.0,3.8
+151,Digestive Biscuits,Snacks,McVitie's,5152,2.98,88.0,3.1
+152,Orange Juice 1L,Beverages,Tropicana,5153,2.69,159.0,4.0
+153,Broccoli,Produce,Tesco,5154,1.56,45.0,4.8
+154,Pringles Original,Snacks,Pringles,5155,2.73,191.0,3.1
+155,Croissants 4 Pack,Bakery,Tesco,5156,3.22,37.0,3.6
+156,Frozen Pizza,Frozen,Tesco,5157,5.42,112.0,4.2
+157,Organic Milk 2L,Dairy,Arla,5158,1.66,167.0,3.8
+158,Chocolate Muffins,Bakery,Tesco,5159,2.1,149.0,4.8
+159,Digestive Biscuits,Snacks,McVitie's,5160,1.03,191.0,4.7
+160,Milk 2L,Dairy,Tesco,5161,3.86,176.0,4.5
+161,Broccoli,Produce,Tesco,5162,1.63,118.0,4.4
+162,Cheddar Cheese 400g,Dairy,Tesco,5163,4.1,176.0,4.0
+163,Wholemeal Bread,Bakery,Hovis,5164,1.13,106.0,3.6
+164,Broccoli,Produce,Tesco,5165,0.67,42.0,3.4
+165,Skyr Yogurt 450g,Dairy,Arla,5166,0.87,128.0,4.0
+166,Broccoli,Produce,Tesco,5167,1.14,117.0,3.4
+167,Pringles Original,Snacks,Pringles,5168,0.69,34.0,3.7
+168,Apples 6 Pack,Produce,Tesco,5169,1.19,193.0,3.2
+169,Ice Cream 1L,Frozen,Tesco,5170,5.62,105.0,4.1
+170,Orange Juice 1L,Beverages,Tropicana,5171,2.18,,3.8
+171,Broccoli,Produce,Tesco,5172,1.9,129.0,4.0
+172,Orange Juice 1L,Beverages,Tropicana,5173,3.21,188.0,3.9
+173,Ice Cream 1L,Frozen,Tesco,5174,5.41,196.0,4.4
+174,Milk 2L,Dairy,Tesco,5175,4.41,150.0,3.2
+175,Carrots 1kg,Produce,Tesco,5176,0.54,28.0,3.0
+176,Wholemeal Bread,Bakery,Hovis,5177,1.22,77.0,4.7
+177,Butter 250g,Dairy,Tesco,5178,3.44,40.0,3.7
+178,Pringles Original,Snacks,Pringles,5179,2.0,133.0,3.9
+179,Frozen Peas,Frozen,Tesco,5180,2.86,161.0,4.5
+180,Bananas 1kg,Produce,Tesco,5181,2.27,43.0,3.3
+181,Mineral Water 6 Pack,Beverages,Evian,5182,4.05,40.0,4.6
+182,Chicken Breast 1kg,Meat,Tesco,5183,8.9,136.0,4.7
+183,Greek Yogurt 500g,Dairy,Tesco,5184,3.13,98.0,4.3
+184,Milk 2L,Dairy,Tesco,5185,2.27,56.0,4.6
+185,Digestive Biscuits,Snacks,McVitie's,5186,1.72,98.0,3.4
+186,Coca-Cola 2L,Beverages,Coca-Cola,5187,5.4,72.0,4.1
+187,Greek Yogurt 500g,Dairy,Tesco,5188,3.62,23.0,3.9
+188,Ice Cream 1L,Frozen,Tesco,5189,4.9,197.0,4.2
+189,Mineral Water 6 Pack,Beverages,Evian,5190,4.49,148.0,4.9
+190,Milk 2L,Dairy,Tesco,5191,2.51,103.0,4.9
+191,Apples 6 Pack,Produce,Tesco,5192,1.28,111.0,4.8
+192,Cheddar Cheese 400g,Dairy,Tesco,5193,4.45,69.0,4.3
+193,Bagels 5 Pack,Bakery,Tesco,5194,2.16,,4.4
+194,Walkers Crisps,Snacks,Walkers,5195,1.95,61.0,4.8
+195,Cheddar Cheese 400g,Dairy,Tesco,5196,3.08,76.0,3.8
+196,Chocolate Muffins,Bakery,Tesco,5197,2.67,195.0,4.7
+197,Mineral Water 6 Pack,Beverages,Evian,5198,4.15,44.0,4.4
+198,Chicken Breast 1kg,Meat,Tesco,5199,7.08,96.0,3.3
+199,Lamb Chops,Meat,Tesco,5200,10.31,178.0,4.5
+200,Bananas 1kg,Produce,Tesco,5201,1.79,117.0,4.4
+201,Snickers Bar,Snacks,Mars,5202,0.67,119.0,4.7
+202,Croissants 4 Pack,Bakery,Tesco,5203,2.15,143.0,3.8
+203,Chocolate Muffins,Bakery,Tesco,5204,1.24,153.0,4.8
+204,Apples 6 Pack,Produce,Tesco,5205,2.1,30.0,5.0
+205,Broccoli,Produce,Tesco,5206,1.67,,5.0
+206,Fish Fingers,Frozen,Tesco,5207,4.17,191.0,4.4
+207,Coca-Cola 2L,Beverages,Coca-Cola,5208,1.6,134.0,4.9
+208,Ice Cream 1L,Frozen,Tesco,5209,2.7,153.0,3.1
+209,Milk 2L,Dairy,Tesco,5210,2.89,75.0,3.2
+210,Green Tea,Beverages,Twinings,5211,5.05,23.0,4.8
+211,Lamb Chops,Meat,Tesco,5212,8.41,107.0,4.2
+212,Pringles Original,Snacks,Pringles,5213,2.09,117.0,5.0
+213,Snickers Bar,Snacks,Mars,5214,1.85,147.0,4.4
+214,Beef Mince 500g,Meat,Tesco,5215,6.87,188.0,3.9
+215,Snickers Bar,Snacks,Mars,5216,0.91,141.0,4.8
+216,Carrots 1kg,Produce,Tesco,5217,1.5,,4.7
+217,Chocolate Muffins,Bakery,Tesco,5218,3.4,152.0,4.6
+218,Walkers Crisps,Snacks,Walkers,5219,2.87,68.0,4.7
+219,Green Tea,Beverages,Twinings,5220,5.49,26.0,4.7
+220,Walkers Crisps,Snacks,Walkers,5221,1.28,47.0,3.6
+221,Frozen Pizza,Frozen,Tesco,5222,2.35,118.0,4.1
+222,Frozen Pizza,Frozen,Tesco,5223,4.82,38.0,4.8
+223,Chicken Breast 1kg,Meat,Tesco,5224,10.99,134.0,3.5
+224,Green Tea,Beverages,Twinings,5225,3.66,139.0,4.8
+225,Chocolate Muffins,Bakery,Tesco,5226,1.53,108.0,4.6
+226,Greek Yogurt 500g,Dairy,Tesco,5227,1.7,93.0,4.9
+227,Frozen Pizza,Frozen,Tesco,5228,2.8,,3.3
+228,Pork Sausages,Meat,Tesco,5229,3.94,176.0,4.1
+229,Chicken Breast 1kg,Meat,Tesco,5230,3.28,149.0,3.7
+230,Walkers Crisps,Snacks,Walkers,5231,1.24,129.0,3.2
+231,Butter 250g,Dairy,Tesco,5232,2.83,159.0,3.1
+232,Frozen Pizza,Frozen,Tesco,5233,2.34,58.0,4.9
+233,Croissants 4 Pack,Bakery,Tesco,5234,2.7,153.0,3.2
+234,Ice Cream 1L,Frozen,Tesco,5235,4.01,62.0,4.1
+235,Pringles Original,Snacks,Pringles,5236,2.35,67.0,4.5
+236,Broccoli,Produce,Tesco,5237,1.02,,3.7
+237,Bananas 1kg,Produce,Tesco,5238,2.12,190.0,3.1
+238,Ice Cream 1L,Frozen,Tesco,5239,1.94,122.0,3.7
+239,Orange Juice 1L,Beverages,Tropicana,5240,4.44,50.0,4.9
+240,Wholemeal Bread,Bakery,Hovis,5241,2.9,95.0,4.9
+241,Pork Sausages,Meat,Tesco,5242,5.15,110.0,3.9
+242,Apples 6 Pack,Produce,Tesco,5243,1.82,43.0,3.8
+243,Seeded Loaf,Bakery,Hovis,5244,1.18,52.0,3.5
+244,Carrots 1kg,Produce,Tesco,5245,2.03,,3.4
+245,Cheddar Cheese 400g,Dairy,Tesco,5246,2.9,130.0,3.8
+246,Croissants 4 Pack,Bakery,Tesco,5247,2.25,185.0,4.2
+247,Frozen Pizza,Frozen,Tesco,5248,5.31,101.0,3.0
+248,Digestive Biscuits,Snacks,McVitie's,5249,0.91,,4.9
+249,Snickers Bar,Snacks,Mars,5250,1.21,86.0,3.3
