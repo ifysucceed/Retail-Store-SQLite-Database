@@ -38,39 +38,40 @@ The repository includes the Python notebook used to generate the data, the SQLit
 
 ---
 
-## Features
+## Project Objectives
 
-* Generates a synthetic retail dataset using Python.
-* Creates four related database tables.
-* Implements primary keys, foreign keys and a compound primary key.
-* Applies SQL constraints to maintain data integrity.
-* Exports the generated datasets as CSV files.
-* Creates an SQLite database directly from Python.
-* Includes example SQL queries demonstrating joins, filtering and aggregation.
+The project demonstrates:
+
+- Synthetic data generation using Python
+- Relational database design
+- SQLite database implementation
+- Primary keys and foreign keys
+- Compound primary keys
+- SQL constraints for data validation
+- SQL querying using joins, grouping and filtering
 
 ---
 
 ## Technologies and Libraries Used
 
-### Programming Language
+> ### Programming Language
+>> * Python
 
-* Python
+> ### Database
 
-### Database
+>> * SQLite
 
-* SQLite
+> ### Development Environment
 
-### Development Environment
+>> * Google Colab
 
-* Google Colab
+> ### Python Libraries
 
-### Python Libraries
-
-* NumPy
-* Pandas
-* sqlite3
-* matplotlib
-* google.colab.files
+>> * NumPy
+>> * Pandas
+>> * sqlite3
+>> * matplotlib
+>> * google.colab.files
 
 ---
 
@@ -301,7 +302,7 @@ GROUP BY payment_method;
 
 ## Running the Project
 
-1. Open the Jupyter notebook.
+1. Open the notebook.
 2. Run all notebook cells in sequence.
 3. The notebook generates the four CSV datasets.
 4. The SQLite database is created automatically.
@@ -309,12 +310,3 @@ GROUP BY payment_method;
 6. Execute the SQL statements in `sql/queries.sql` to reproduce the example queries.
 
 ---
-
-## Future Improvements
-
-Possible future enhancements include:
-
-* Expanding the product catalogue with additional categories and brands.
-* Adding more SQL queries for advanced data analysis.
-* Creating dashboards to visualise customer purchasing behaviour and sales trends.
-* Integrating the database with a web application or API.
